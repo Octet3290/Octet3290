@@ -13,13 +13,14 @@
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />][twitter]
-[![website](./img/twitter-dark.svg)](https://twitter.com/rahul3290-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/-dark-mode-only)
+[<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/octet_rahul3290/-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/octet_rahul3290/-dark-mode-only)
+[<img align="left" alt="" width="22px" src="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2019/06/LI-bug-CONTENT-2019.jpg" />][linkedin]
+&nbsp;&nbsp;
+[<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
+&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
