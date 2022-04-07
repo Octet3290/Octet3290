@@ -30,7 +30,7 @@
 
 <img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="26px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://www.verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
@@ -48,14 +48,23 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSAstacks.html)
+- [Introduction to Kubernetes](https://octet3290.github.io/OctetLearnings/kubernetes.html)
+- [Data Structure and Algorithm - Linked Lists in C++](https://octet3290.github.io/OctetLearnings/DSALinkedList.html)
+- [Data Structure and Algorithm - Sorting in C++](https://octet3290.github.io/OctetLearnings/DSAnext2.html)
+
+- [Data Structure and Algorithm - Searching in C++](https://octet3290.github.io/OctetLearnings/DSAnext1.html)
+
+- [Introduction to Data Structure and Algorithm](https://octet3290.github.io/OctetLearnings/DSA.html)
+
+- [Introduction to Docker](https://octet3290.github.io/OctetLearnings/docker.html)
+
+
+
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://octet3290.github.io/OctetLearnings/index.html)
 
 ---
 
