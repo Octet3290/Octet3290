@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
 &nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2019/06/LI-bug-CONTENT-2019.jpg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
 &nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
 &nbsp;&nbsp;
@@ -26,19 +26,16 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="HTML5" width="26px" src="https://www.itsolutionsjovel.com/wp-content/uploads/2018/05/cpp_logo-600x675.png" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="26px" src="https://p7.hiclipart.com/preview/1005/511/631/web-development-html-logo-world-wide-web-consortium-create-html-signature.jpg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS" width="26px" src="https://image.pngaaa.com/311/3920311-middle.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<img align="left" alt="GitHub" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" style="padding-right:10px;" />
+
+
 
 <br />
 <br />
