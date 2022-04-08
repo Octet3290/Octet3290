@@ -73,12 +73,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <a href="https://github.com/Octet3290/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Octet3290&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical)
 
 </details>
 
