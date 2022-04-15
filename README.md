@@ -48,6 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSAqueue.html)
 - [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSAstacks.html)
 - [Introduction to Kubernetes](https://octet3290.github.io/OctetLearnings/kubernetes.html)
 - [Data Structure and Algorithm - Linked Lists in C++](https://octet3290.github.io/OctetLearnings/DSALinkedList.html)
@@ -79,6 +80,6 @@
 
 [website]: https://octet3290.github.io/OctetLearnings/
 [twitter]: https://twitter.com/rahul3290
-[instagram]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
+[instagram]: https://www.instagram.com/octet_rahul3290/
 [linkedin]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
 
