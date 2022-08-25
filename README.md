@@ -30,7 +30,7 @@
 
 <img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="26px" src="https://clipground.com/images/css-3-logo-clipart.jpg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.jpg" />
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
