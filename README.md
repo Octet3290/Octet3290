@@ -77,7 +77,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical)
 
 </details>
 
