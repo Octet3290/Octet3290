@@ -30,7 +30,7 @@
 
 <img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="26px" src="https://th.bing.com/th/id/OIP.n53ihRvP5_UehhhckTCTBQAAAA?pid=ImgDet&rs=1" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="https://p.kindpng.com/picc/s/493-4938086_css-3-hd-png-download.png" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
