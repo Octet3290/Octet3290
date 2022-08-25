@@ -30,7 +30,7 @@
 
 <img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="26px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.jpg" />
+<img align="left" alt="CSS" width="26px" src="https://th.bing.com/th/id/R.1e3f4e0b519f5057795f186bd4224fb8?rik=vdWvi0sovMbzJA&riu=http%3a%2f%2flogonoid.com%2fimages%2fcss3-logo.png&ehk=1834Yvb9mgURw5ej9KtjAZvXXTxCWs8bA08xVL%2ftEBU%3d&risl=&pid=ImgRaw&r=0" />
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
