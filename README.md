@@ -50,18 +50,18 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/Web%20Development/HTML.html)
-- [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/kubernetes6.html)
-- [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSAqueue.html)
-- [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSAstacks.html)
-- [Introduction to Kubernetes](https://octet3290.github.io/OctetLearnings/kubernetes.html)
-- [Data Structure and Algorithm - Linked Lists in C++](https://octet3290.github.io/OctetLearnings/DSALinkedList.html)
-- [Data Structure and Algorithm - Sorting in C++](https://octet3290.github.io/OctetLearnings/DSAnext2.html)
+- [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes6.html)
+- [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAqueue.html)
+- [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAstacks.html)
+- [Introduction to Kubernetes](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes1.html)
+- [Data Structure and Algorithm - Linked Lists in C++](https://octet3290.github.io/OctetLearnings/DSA/DSALinkedList.html)
+- [Data Structure and Algorithm - Sorting in C++](https://octet3290.github.io/OctetLearnings/DSA/DSAnext2.html)
 
-- [Data Structure and Algorithm - Searching in C++](https://octet3290.github.io/OctetLearnings/DSAnext1.html)
+- [Data Structure and Algorithm - Searching in C++](https://octet3290.github.io/OctetLearnings/DSA/DSAnext1.html)
 
-- [Introduction to Data Structure and Algorithm](https://octet3290.github.io/OctetLearnings/DSA.html)
+- [Introduction to Data Structure and Algorithm](https://octet3290.github.io/OctetLearnings/DSA/DSAnext.html)
 
-- [Introduction to Docker](https://octet3290.github.io/OctetLearnings/docker.html)
+- [Introduction to Docker](https://octet3290.github.io/OctetLearnings/Docker/docker.html)
 
 
 
