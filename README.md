@@ -49,7 +49,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/HTML.html)
+- [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/Web%20Development/HTML.html)
 - [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/kubernetes6.html)
 - [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSAqueue.html)
 - [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSAstacks.html)
