@@ -34,7 +34,7 @@
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
