@@ -62,8 +62,9 @@
  
 - 📫 How to reach me: octetrahul3290@gmail.com
 
-
-
+<picture>
+<img src="https://raw.githubusercontent.com/UjjwalMahar/UjjwalMahar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
