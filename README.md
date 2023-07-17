@@ -1,13 +1,14 @@
 # Hi there, I'm Rahul Kumar Yadav - aka [Octet3290]👋 
 
 
-## I'm a Undergraduate student pursuing Bachelors of Engineering in the field of Computer Science.
+## I'm a Undergraduate student pursuing Bachelors of Engineering in Computer Science Major.
 
 - 🔭 Check out my Learnings: [Octet's Learning](https://octet3290.github.io/OctetLearnings/)
-- 🌱 I’m currently learning Web Development and Data Structures & Algorithm.
-- 👯 I’m looking to contribute and work with firms.
-- 🥅 2022 Goals: Complete Web development and Data Structure & Algorithm.
-- ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
+- 🌱 I’m currently enhancing my hands-on experience in the field of <b>DevOps</b> and dedicating myself to honing my skills in Data Structures and 
+      Algorithms on the other hand.
+- 👯 I’m looking to contribute more and work on open source.
+- 🥅 2023 Goals: Enahance technical proficiency in DevOps and DSA.
+- ⚡ Interests: I listen to EDM, I love playing Football and watching stuffs related to Time Travel and Conspiracy theories.
 
 ### :fire: My GitHub Stats
 
