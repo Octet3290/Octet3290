@@ -9,38 +9,15 @@
 - 🥅 2022 Goals: Complete Web development and Data Structure & Algorithm.
 - ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
 
+### :fire: My GitHub Stats
 
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />][twitter]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
-&nbsp;&nbsp;
+  ![Octet Github stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Octet3290&theme=dark)](https://git.io/streak-stats) 
+--- | --- 
 
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;" />
-
-<img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
-
-<img align="left" alt="CSS" width="26px" height="30px" src="https://user-images.githubusercontent.com/22002193/69540470-55a77800-0f8f-11ea-9898-0acd26043695.png" style="padding-right:10px;" />
-
-<img align="left" alt="AWS" width="26px" height="30px" src="https://image.pngaaa.com/638/876638-middle.png" style="padding-right:10px;" />
-
-<img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
-
-<img align="left" alt="NextJS" width="26px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+![My Skills](https://skillicons.dev/icons?i=cpp,html,css,nextjs,aws,git,docker,jenkins,kubernetes,linux,github,react,githubactions)
 
 <br />
 <br />
@@ -50,7 +27,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Deploying website on AWS using GitHub Actions](https://octet3290.github.io/OctetLearnings/DevOps/DevopsNext.html)
 - [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/Web%20Development/HTML.html)
 - [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes6.html)
 - [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAqueue.html)
@@ -70,21 +47,25 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://octet3290.github.io/OctetLearnings/index.html)
+➡️ [More blog posts...](https://octet3290.github.io/OctetLearnings/index.html)
+<br />
+➡️ [Explore Octet Learnings](https://octet3290.github.io/OctetLearnings/Explore1.html)
+
 
 ---
 
+### 🌐 Connect With Me:
+
+ [![Follow Me Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/octet_rahul3290/)  [![Connect with me on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/)  [![Follow Me Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul3290)
+ 
+ 
+- 📫 How to reach me: octetrahul3290@gmail.com
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical)
 
-</details>
 
-[website]: https://octet3290.github.io/OctetLearnings/
-[twitter]: https://twitter.com/rahul3290
-[instagram]: https://www.instagram.com/octet_rahul3290/
-[linkedin]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
+
+
+
 
