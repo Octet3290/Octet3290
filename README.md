@@ -32,7 +32,7 @@
 
 <img align="left" alt="CSS" width="26px" height="30px" src="https://user-images.githubusercontent.com/22002193/69540470-55a77800-0f8f-11ea-9898-0acd26043695.png" style="padding-right:10px;" />
 
-<img align="left" alt="AWS" width="26px" height="30px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" height="30px" src="https://image.pngaaa.com/638/876638-middle.png" style="padding-right:10px;" />
 
 <img align="left" alt="C" width="26px" src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" style="padding-right:10px;" />
 
