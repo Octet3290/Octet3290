@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul Kumar Yadav - aka [Octet3290]👋 
 
 
-## I'm a Undergraduate student pursuing Bachelors of Engineering in Computer Science Major.
+## I'm an 2024 Graduate with Bachelors of Engineering Degree in Computer Science Major.
 
 - 🔭 Check out my Learnings: [Octet's Learning](https://octet3290.github.io/OctetLearnings/)
 - 🌱 I’m currently enhancing my hands-on experience in the field of <b>DevOps</b> and dedicating myself to honing my skills in Data Structures and 
