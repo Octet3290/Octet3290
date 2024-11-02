@@ -7,7 +7,7 @@
 - 🌱 I’m currently enhancing my hands-on experience in the field of <b>DevOps</b> and dedicating myself to honing my skills in Data Structures and 
       Algorithms on the other hand.
 - 👯 I’m looking to contribute more and work on open source.
-- 🥅 2023 Goals: Enahance technical proficiency in DevOps and DSA.
+- 🥅 2024 Goals: Enhance technical proficiency in DevOps and DSA.
 - ⚡ Interests: I listen to EDM, I love playing Football and watching stuffs related to Time Travel and Conspiracy theories.
 
 ### :fire: My GitHub Stats
