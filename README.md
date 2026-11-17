@@ -1,73 +1,65 @@
-# Hi there, I'm Rahul Kumar Yadav - aka [Octet3290]👋 
+<div align="center">
 
+# Rahul Kumar Yadav
+### Software Engineer • Full-Stack & DevOps
 
-## I'm an 2024 Graduate with Bachelors of Engineering Degree in Computer Science Major.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/rahul3290)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/octet_rahul3290/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:octetrahul3290@gmail.com)
 
-- 🔭 Check out my Learnings: [Octet's Learning](https://octet3290.github.io/OctetLearnings/)
-- 🌱 I’m currently enhancing my hands-on experience in the field of <b>DevOps</b> and dedicating myself to honing my skills in Data Structures and 
-      Algorithms on the other hand.
-- 👯 I’m looking to contribute more and work on open source.
-- 🥅 2025 Goals: Enhance technical proficiency in DevOps and DSA.
-- ⚡ Interests: I listen to EDM, I love playing Football and watching stuffs related to Time Travel and Conspiracy theories.
-
-### :fire: My GitHub Stats
-
-  ![Octet Github stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Octet3290&theme=dark)](https://git.io/streak-stats) 
---- | --- 
-
-
-### Languages and Tools:
-
-![My Skills](https://skillicons.dev/icons?i=cpp,html,css,nextjs,aws,git,docker,jenkins,kubernetes,linux,github,react,githubactions)
-
-<br />
-<br />
+</div>
 
 ---
 
-### 📕 Latest Blog Posts
+### About Me
 
-<!-- BLOG-POST-LIST:START -->
-- [Deploying website on AWS using GitHub Actions](https://octet3290.github.io/OctetLearnings/DevOps/DevopsNext.html)
-- [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/Web%20Development/HTML.html)
-- [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes6.html)
-- [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAqueue.html)
-- [Data Structure and Algorithm - Stacks in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAstacks.html)
-- [Introduction to Kubernetes](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes1.html)
-- [Data Structure and Algorithm - Linked Lists in C++](https://octet3290.github.io/OctetLearnings/DSA/DSALinkedList.html)
-- [Data Structure and Algorithm - Sorting in C++](https://octet3290.github.io/OctetLearnings/DSA/DSAnext2.html)
+Computer Science Engineering graduate passionate about building robust full-stack applications, scalable cloud infrastructure, and AI-powered systems. Currently focused on deep backend architectures, DevOps automation, and high-precision AI/RAG platforms.
 
-- [Data Structure and Algorithm - Searching in C++](https://octet3290.github.io/OctetLearnings/DSA/DSAnext1.html)
-
-- [Introduction to Data Structure and Algorithm](https://octet3290.github.io/OctetLearnings/DSA/DSAnext.html)
-
-- [Introduction to Docker](https://octet3290.github.io/OctetLearnings/Docker/docker.html)
-
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://octet3290.github.io/OctetLearnings/index.html)
-<br />
-➡️ [Explore Octet Learnings](https://octet3290.github.io/OctetLearnings/Explore1.html)
-
+- 🔭 Building production-ready full-stack applications and AI retrieval systems.
+- ⚙️ Actively working with **FastAPI, Next.js, PostgreSQL/pgvector, Docker, and Kubernetes**.
+- 🤝 Open to collaboration on impactful open-source projects and developer tools.
+- ⚡ Interests: Distributed Systems, DevOps Automation, EDM, and Sci-Fi.
 
 ---
 
-### 🌐 Connect With Me:
+### Featured Projects
 
- [![Follow Me Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/octet_rahul3290/)  [![Connect with me on Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/)  [![Follow Me Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul3290)
- 
- 
-- 📫 How to reach me: octetrahul3290@gmail.com
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[MedRAG](https://github.com/Octet3290/MedRAG)** | Enterprise-grade Clinical RAG assistant featuring structure-aware chunking, pgvector cosine search, conversational anaphora resolution, and 100% verifiable page citations. | `FastAPI` `Next.js` `pgvector` `OpenAI` `TypeScript` |
+| **[ShortX](https://github.com/Octet3290/ShortX)** | High-throughput, modern URL management and analytics platform engineered for low latency, fast redirection, and detailed click metrics. | `TypeScript` `Next.js` `PostgreSQL` `TailwindCSS` |
+| **[TeamSync](https://github.com/Octet3290/TeamSync)** | Real-time collaborative team workspace streamlining task synchronization, shared workspaces, and team workflows. | `React` `Node.js` `WebSockets` `Docker` |
+
+---
+
+### Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,react,ts,cpp,postgres,docker,kubernetes,aws,githubactions,linux,git,tailwind" alt="Skills" />
+</p>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Octet3290 Stats" />
+<img height="150em" src="https://streak-stats.demolab.com/?user=Octet3290&theme=tokyonight&hide_border=true&background=0d1117" alt="Octet3290 Streak" />
+
+<br/><br/>
 
 <picture>
-<img src="https://raw.githubusercontent.com/UjjwalMahar/UjjwalMahar/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Octet3290/Octet3290/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Octet3290/Octet3290/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Octet3290/Octet3290/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
 
+---
 
-
-
-
+<div align="center">
+  <sub>Designed & Developed by Rahul Kumar Yadav (@Octet3290)</sub>
+</div>
