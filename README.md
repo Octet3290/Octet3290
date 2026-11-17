@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rahul Kumar Yadav
-**Software Engineer • Full-Stack Developer**  
+**Full-Stack Web Developer**  
 Mumbai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/)
