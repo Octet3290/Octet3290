@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rahul Kumar Yadav
-**Software Engineer • Full-Stack & DevOps**  
+**Software Engineer • Full-Stack Developer**  
 Mumbai, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/)
@@ -17,7 +17,7 @@ Mumbai, India
 
 Full-Stack & DevOps Engineer with a B.E. in Computer Science, currently engineering scalable web architectures at **Netcrease Global Services**. Passionate about distributed systems, low-latency microservices, and verifiable AI/RAG platforms.
 
-- 💼 **Currently**: Web Developer at **Netcrease Global Services LLP** (Building modular B2B architectures & caching systems).
+- 💼 **Currently**: Full-Stack Web Developer building modular B2B architectures, low-latency caching layers, and high-performance web systems.
 - 🧠 **Problem Solving**: Solved **500+ Data Structures & Algorithms** problems across LeetCode and competitive programming platforms.
 - ☁️ **Cloud & DevOps**: **AWS Certified Solutions Architect Professional**, building containerized CI/CD pipelines with Docker & Kubernetes.
 - 🎯 **Focus Areas**: Scalable Backend Systems • AI Retrieval (RAG) • High-Throughput APIs • System Design
